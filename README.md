@@ -1,5 +1,6 @@
 # Healthcare 
-**Research Project using Advanced Machine Learning Techniques **
+
+**Research Project using Advanced Machine Learning Techniques**
 
 - [x] Predicting the High Utilization using Patients Claims.
 - [x] Pradicting the Mortality of ICU Patients.
@@ -14,7 +15,7 @@
 - [x] Conduct sensitivity analysis for the testClaims data for predicting high utilization.
 - [x] Select randomly two patients  test set. Conduct local sensitivity analysis for the prediction on these patients.
 
-**Models built using Window Algorithm to predict ICU mortality using MIMIC **
+**Models built using Window Algorithm to predict ICU mortality using MIMIC**
 
 - [x] Model that uses first 24 hours of data and predicts mortality any time (after 24 hours) during hospitalization. 
 - [x] Model that uses 24-hour sliding window to predict morality at any time during hospitalization. 
