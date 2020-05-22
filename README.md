@@ -1,6 +1,6 @@
 # Healthcare 
 
-**Research Project using Advanced Machine Learning Techniques**
+**Research Project using Advanced Data Mining**
 
 - [x] Predicting the High Utilization using Patients Claims.
 - [x] Pradicting the Mortality of ICU Patients.
