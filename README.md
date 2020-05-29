@@ -1,4 +1,4 @@
-# Healthcare 
+# Advanced Data Mining 
 
 **Research Project using Advanced Data Mining**
 
